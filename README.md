@@ -12,6 +12,7 @@ This assignment is composed of the following files:
 * Price demand data: price_and_demand.csv
 * Weather data: weather.csv
 * Merged data: merged_data_analysed.csv
+* Link to Github repository: repository_link.txt
 
 Our code is structured in the following manner:
 1. Import files
