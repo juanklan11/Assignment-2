@@ -11,7 +11,7 @@ This assignment is composed of the following files:
 * Code: Assignment 2 Submission.ipynb
 * Price demand data: price_and_demand.csv
 * Weather data: weather.csv
-* Merged data: merged_data.csv
+* Merged data: merged_data_analysed.csv
 
 Our code is structured in the following manner:
 1. Import files
